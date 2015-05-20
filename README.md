@@ -12,7 +12,7 @@
 #### 请求示例：
 http://localhost/api/getIndexArticles/
 #### JSON返回示例：
-{
+`{
 	article:[
 	    {
 		    aid:3,
@@ -35,7 +35,7 @@ http://localhost/api/getIndexArticles/
 	],	
 	status:"sucess",
 	errMsg:""
-}
+}`
 
 
 
